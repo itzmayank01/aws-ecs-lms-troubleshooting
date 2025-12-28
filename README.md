@@ -13,6 +13,9 @@ The focus of this project is not only deployment but also diagnosing and fixing 
 - Security Groups
 - CloudWatch Logs
 
+  <img width="766" height="617" alt="Screenshot 2025-12-27 233358" src="https://github.com/user-attachments/assets/6d09086e-6582-4604-b9ca-1d2b5ce1e1a4" />
+
+
 ## What I Did in This Project
 
 ### 1. Container Deployment
@@ -58,3 +61,6 @@ http://edutech-lms-alb-612748383.ap-south-1.elb.amazonaws.com/
 ## Note
 This repository documents the troubleshooting process and learning outcomes.  
 AWS resources are not publicly accessible, so screenshots are used as proof of work.
+
+
+
