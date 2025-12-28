@@ -53,6 +53,8 @@ The focus of this project is not only deployment but also diagnosing and fixing 
 - Restored application availability after multiple failure scenarios
 - Gained hands-on experience with production-like AWS issues
 
+http://edutech-lms-alb-612748383.ap-south-1.elb.amazonaws.com/
+
 ## Note
 This repository documents the troubleshooting process and learning outcomes.  
 AWS resources are not publicly accessible, so screenshots are used as proof of work.
